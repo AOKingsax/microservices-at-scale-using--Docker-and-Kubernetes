@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+# microservices-at-scale-using-kubernetes [![aokingsax](https://circleci.com/gh/aokingsax/microservices-at-scale-using-kubernetes.svg?style=svg)](########)
 
 ## Project Overview
 
