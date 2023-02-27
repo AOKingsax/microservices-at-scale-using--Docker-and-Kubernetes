@@ -1,5 +1,12 @@
 # microservices-at-scale-using-kubernetes [![aokingsax](https://circleci.com/gh/AOKingsax/microservices-at-scale-using-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/AOKingsax/microservices-at-scale-using-kubernetes/1/workflows/6d1ad53a-7696-492f-8847-57a81493c085)
 
+         ___        ______     ____ _                 _  ___  
+        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
+       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
+      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
+     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
+ ----------------------------------------------------------------- 
+
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
